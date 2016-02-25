@@ -1,0 +1,19 @@
+{
+    "name": "mrhoang/package",
+    "description": "test package",
+    "type": "libelibrary",
+    "version": "1.0.0",
+    "license": "LMIT",
+    "authors": [
+        {
+            "name": "hoang hhiep",
+            "email": "av@gmail.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
